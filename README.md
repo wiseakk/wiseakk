@@ -11,10 +11,6 @@
 - VK: [@go_outme](https://vk.com/go_outme)
 - Kwork: [wiseakk](https://kwork.ru/user/wiseakk)
 - Gmail: [artemchirikov8@gmail.com](mailto:artemchirikov8@gmail.com)
-
-
-vless://b0a6c0a6-ebf5-4848-82fa-aec7d33d0e96@85.192.26.65:443?security=reality&type=tcp&headerType=&path=&host=&sni=teamdocs.su&fp=chrome&pbk=jsGpLt_zGmEtOXRJ7BKbafgA_u1Qo6Of-VL9jSvF8jY&sid=2e5a597e63a1cec7#%F0%9F%9A%80%20Marz%20%28dad-mac%29%20%5BVLESS%20-%20tcp%5D
-
 ---
 <p align="center">
   <a href="https://t.me/wiseakk" target="_blank" rel="noopener noreferrer" style="all: unset; cursor: pointer;">
