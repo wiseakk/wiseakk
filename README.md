@@ -1,8 +1,19 @@
+# wiseakk
 
-<p align="center">
-<strong>THIS PAGE IS STILL IN BETA. like ios 26)</strong>
-</p>
+![wiseakk — Linux, local AI and automation](assets/wiseakk.svg)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+Привет, я **wise**. Пишу приложения и инструменты для своего рабочего окружения. Сейчас мой главный проект — локальный голосовой помощник для компьютера.
+
+## Избранное
+
+**[LocalMind](https://github.com/wiseakk/LocalMind)**
+
+Русскоязычный голосовой помощник с локальной моделью. Он умеет работать с приложениями и файлами в рамках выданных разрешений. В репозитории есть демонстрация, описание архитектуры и материалы школьной защиты.
+
+## Инструменты и интересы
+
+Python · C++ · C# · изучаю Rust
+
+Arch Linux · Hyprland · локальный AI · автоматизация
+
+Вне кода — Dota 2 и музыка.
