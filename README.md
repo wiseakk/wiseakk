@@ -1,19 +1,27 @@
-# wiseakk
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/terminal-mobile.svg">
+  <img width="100%" alt="wiseakk — wise@arch ~ · build. automate. customize." src="assets/terminal.svg">
+</picture>
 
-![wiseakk — Linux, local AI and automation](assets/wiseakk.svg)
+Привет, я **wise**. Ещё использую **wisea** и **wiseakk**. Пишу инструменты для своего Linux-окружения и экспериментирую с локальным AI и автоматизацией.
 
-Привет, я **wise**. Пишу приложения и инструменты для своего рабочего окружения. Сейчас мой главный проект — локальный голосовой помощник для компьютера.
+## Рабочее окружение
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stack-mobile.svg">
+  <img width="100%" alt="Python · C++ · C# · изучаю Rust · Arch Linux · Hyprland" src="assets/stack.svg">
+</picture>
 
 ## Избранное
 
-**[LocalMind](https://github.com/wiseakk/LocalMind)**
+[![LocalMind — локальный голосовой помощник](assets/localmind-card.svg)](https://github.com/wiseakk/LocalMind)
 
-Русскоязычный голосовой помощник с локальной моделью. Он умеет работать с приложениями и файлами в рамках выданных разрешений. В репозитории есть демонстрация, описание архитектуры и материалы школьной защиты.
+[![WiseaVPN — публичная страница статуса](assets/wiseavpn-card.svg)](https://www.wiseavpn.fun/)
 
-## Инструменты и интересы
+## Вне кода
 
-Python · C++ · C# · изучаю Rust
+`Linux` &ensp; `Dota 2` &ensp; `Музыка`
 
-Arch Linux · Hyprland · локальный AI · автоматизация
+---
 
-Вне кода — Dota 2 и музыка.
+[**@wiseakk**](https://github.com/wiseakk) &nbsp;·&nbsp; [Репозитории](https://github.com/wiseakk?tab=repositories) &nbsp;·&nbsp; [Обратная связь по LocalMind](https://github.com/wiseakk/LocalMind/issues)
