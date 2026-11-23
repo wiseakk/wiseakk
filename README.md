@@ -1,5 +1,5 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/terminal-mobile.svg">
+  <source media="(max-width: 800px)" srcset="assets/terminal-mobile.svg">
   <img width="100%" alt="wiseakk — wise@arch ~ · build. automate. customize." src="assets/terminal.svg">
 </picture>
 
@@ -8,7 +8,7 @@
 ## Рабочее окружение
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/stack-mobile.svg">
+  <source media="(max-width: 800px)" srcset="assets/stack-mobile.svg">
   <img width="100%" alt="Python · C++ · C# · изучаю Rust · Arch Linux · Hyprland" src="assets/stack.svg">
 </picture>
 
