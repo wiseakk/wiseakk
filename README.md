@@ -1,27 +1,37 @@
 <picture>
-  <source media="(max-width: 800px)" srcset="assets/terminal-mobile.svg">
-  <img width="100%" alt="wiseakk — wise@arch ~ · build. automate. customize." src="assets/terminal.svg">
+  <source media="(max-width: 620px)" srcset="assets/wiseakk-hero-390.webp">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/wiseakk-hero-1100.webp">
+  <img width="100%" src="assets/wiseakk-hero.gif" alt="wise / akk: portrait, topographic lines and a Hyprland terminal running whoami">
 </picture>
 
-Привет, я **wise**. Ещё использую **wisea** и **wiseakk**. Пишу инструменты для своего Linux-окружения и экспериментирую с локальным AI и автоматизацией.
+wise / wisea / wiseakk · Arch Linux · Hyprland · Python, C++, C# · learning Rust
 
-## Рабочее окружение
+## My projects
 
-<picture>
-  <source media="(max-width: 800px)" srcset="assets/stack-mobile.svg">
-  <img width="100%" alt="Python · C++ · C# · изучаю Rust · Arch Linux · Hyprland" src="assets/stack.svg">
-</picture>
+### LocalMind
 
-## Избранное
+*Your PC. Your AI. Your rules.*
 
-[![LocalMind — локальный голосовой помощник](assets/localmind-card.svg)](https://github.com/wiseakk/LocalMind)
+A local AI assistant that can chat, understand your voice, and interact with your computer — all on your terms.
 
-[![WiseaVPN — публичная страница статуса](assets/wiseavpn-card.svg)](https://www.wiseavpn.fun/)
+<a href="assets/localmind-project.webp"><picture>
+  <source media="(max-width: 620px)" srcset="assets/localmind-project-mobile.webp">
+  <img width="100%" src="assets/localmind-project.webp" alt="Real LocalMind interface showing a conversation, chat history and microphone controls">
+</picture></a>
 
-## Вне кода
-
-`Linux` &ensp; `Dota 2` &ensp; `Музыка`
+[Explore LocalMind ↗](https://github.com/wiseakk/LocalMind)
 
 ---
 
-[**@wiseakk**](https://github.com/wiseakk) &nbsp;·&nbsp; [Репозитории](https://github.com/wiseakk?tab=repositories) &nbsp;·&nbsp; [Обратная связь по LocalMind](https://github.com/wiseakk/LocalMind/issues)
+### WiseaVPN
+
+*Private access. Fair price. Small community.*
+
+An affordable VPN service built for a small community. Simple, reliable, and focused on keeping things accessible.
+
+<picture>
+  <source media="(max-width: 620px)" srcset="assets/wiseavpn-status-mobile.webp">
+  <img width="455" src="assets/wiseavpn-status.webp" alt="Screenshot of the public WiseaVPN status page">
+</picture>
+
+[Visit WiseaVPN ↗](https://www.wiseavpn.fun/)
