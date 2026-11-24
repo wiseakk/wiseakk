@@ -14,10 +14,10 @@ wise / wisea / wiseakk · Arch Linux · Hyprland · Python, C++, C# · learning 
 
 A local AI assistant that can chat, understand your voice, and interact with your computer — all on your terms.
 
-<a href="assets/localmind-project.webp"><picture>
+<picture>
   <source media="(max-width: 620px)" srcset="assets/localmind-project-mobile.webp">
   <img width="100%" src="assets/localmind-project.webp" alt="Real LocalMind interface showing a conversation, chat history and microphone controls">
-</picture></a>
+</picture>
 
 [Explore LocalMind ↗](https://github.com/wiseakk/LocalMind)
 
